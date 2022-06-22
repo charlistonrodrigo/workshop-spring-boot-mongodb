@@ -9,6 +9,6 @@ Este projeto foi criado com o framework spring e também banco de dados noSql mo
 
 ## Layout
 <p align="center">
-  <img width="600" src="src/">
+  <img width="600" src="Mongo.png">
 </P>
 
